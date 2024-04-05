@@ -10,4 +10,4 @@ classes: wide
 #  caption: "Photo credit: Giacomo Mantovan, Iphone SE"
 ---
 
-<embed src="https://gmantovan.github.io/assets/files/bertinelli_gabriele_cv.pdf" type="application/pdf" />
+<embed src="https://berto70.github.io/assets/files/bertinelli_gabriele_cv.pdf" type="application/pdf" />
