@@ -4,8 +4,8 @@ title: "Outreach Project"
 permalink: /outreach/
 author_profile: true
 classes: wide
-#header:
-#  image: /assets/images/vioz.jpeg
+header:
+  image: /assets/images/l2u_cover.png
 #  image_description: "Monte Vioz (Italy)"
 #  caption: "Photo credit: Giacomo Mantovan, Iphone SE"
 ---
