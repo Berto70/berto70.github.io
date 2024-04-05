@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : bj5yYBq8T5t0Fr8NHZrYBYiBq2TdkXqkg7jV-5Pdp7I
+google_site_verification : -dxEGt9Wo5P9Vb0YXcintERxvByrpaNx-vDzJNRk5Aw
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : gab_bertinelli
 facebook:
   username               :
   app_id                 :
@@ -98,16 +98,16 @@ social:
 analytics:
   provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-235182248-1"
+    tracking_id          : "G-PTDZCDXNKZ"
     anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Giacomo Mantovan"
+  name             : "Gabriele Bertinelli"
   avatar           : "/assets/images/IMG_6674.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student of Astronomy."
-  location         : "Italy (PD), Scotland (St. Andrews)"
+  bio              : "MSc student - Physics of Data"
+  location         : "Italy (PD)"
   email            : 
   links:
     - label: "Email"
@@ -118,19 +118,25 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/gab_bertinelli"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/GMantovan"
+      url: "https://github.com/Berto70"
+    - label: "GitLab"
+      icon: "fab fa-wb fa-gitlab"
+      url: "https://gitlab.com/Berto70"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/gabriele_bertinelli"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url:  "https://orcid.org/0000-0002-6871-6131" 
+      url:  "https://orcid.org/0009-0007-8256-3550" 
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url:  "https://t.me/berto70"
 
 # Site Footer
 footer:
@@ -155,7 +161,7 @@ footer:
       # url:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url:  "https://orcid.org/0000-0002-6871-6131" 
+      url:  "https://orcid.org/0000-0002-6871-6131"
 
 
 # Reading Files
