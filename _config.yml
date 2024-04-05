@@ -106,19 +106,22 @@ analytics:
 author:
   name             : "Gabriele Bertinelli"
   avatar           : "/assets/images/gabriele_bertinelli_propic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MSc student - Physics of Data"
-  location         : "Italy (PD)"
+  bio              : "MSc Student - Physics of Data"
+  location         : "Padova, Italy"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:gabriele.bertinelli@studenti.unipd.it"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url:  "https://t.me/berto70"    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gab_bertinelli"
+      # url: "https://twitter.com/gab_bertinelli"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -130,35 +133,32 @@ author:
       url: "https://gitlab.com/Berto70"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/gabriele_bertinelli"
+      # url: "https://instagram.com/gabriele_bertinelli"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url:  "https://orcid.org/0009-0007-8256-3550" 
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url:  "https://t.me/berto70"
+      # url:  "https://orcid.org/0009-0007-8256-3550"
 
 # Site Footer
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url:  "https://instagram.com/gabriele_bertinelli"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:  "https://twitter.com/gab_bertinelli"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/GMantovan"
+      #url: 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LikedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/gabriele-bertinelli-66250122a/"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url:  "https://orcid.org/0000-0002-6871-6131"
