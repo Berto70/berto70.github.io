@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriele Bertinelli"
-  avatar           : "/assets/images/IMG_6674.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gabriele_bertinelli_propic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MSc student - Physics of Data"
   location         : "Italy (PD)"
   email            : 
