@@ -20,7 +20,7 @@ title                    : "Gabriele Bertinelli"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gabriele Bertinelli"
-description              : "Personal website."
+description              : "Gabriele Bertinelli's Personal website"
 url                      : https://berto70.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Berto70/berto70.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
