@@ -15,6 +15,7 @@ classes: wide
 <small>If you want you can take a look at some of the [projects](/research/) I developed during my master</small></p> -->
 Anyway I can proudly show you my 
 <h2>Bachelor's thesis</h2>
+<h3> "DART mission to the Didymos binary system" </h3>
 <h4 style="font-size:18px"><i>Summary:</i></h4>
 <p style="font-size:11px"><i>The purpose of this thesis is to describe the DART mission to the Didymos binary asteroid system. To do this we start with a general description of asteroids and then move on to binary systems, important scientific
 targets for studying the formation and evolution of asteroids and shedding light on the evolutionary aspects of the Solar System itself. The discussion will then shift to the modalities and purposes of the DART mission,
