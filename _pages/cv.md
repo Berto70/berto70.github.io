@@ -21,7 +21,7 @@ classes: wide
 
 <h2> Experiences </h2>
 <ul>
-    <li><b>Science communicator @ Link2Universe</b> (full page [here]({{ site.baseurl }}/outreach))<br>
+    <li><b>Science communicator @ Link2Universe</b> (full page <a href="https://berto70.github.io/outreach/">here</a>)<br>
     Editor and admin of one of the largest Italian space-releated outreach pages. Publication of space, astrophysics and science news on Facebook, Instagram and Telegram.</li>
     <li><b>ERASMUS+ Traineeships</b><br>
     During ERASMUS+ mobility I worked alongside with Paolo Tanga (Côte d’Azur Observatory - Nice, FR) and its team, analyzing the property of the Yarkovsky Effect and its effect on the rotational properties of the asteroid families. For more details refer to <a href="/publications/#master">this section</a>.</li>
