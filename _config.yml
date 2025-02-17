@@ -148,7 +148,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url:  "https://twitter.com/gab_bertinelli"
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fa-brands fa-square-bluesky"
       url: "https://bsky.app/profile/berto70.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
