@@ -9,7 +9,7 @@ classes: wide
 #  image_description: "Monte Stivo (Italy)"
 #  caption: "Photo credit: Giacomo Mantovan, Iphone SE"
 ---
-<p>Since I'm just a poor MSc student I don't have any scientific pubblication to show you :'( <br>
+<p>Since I'm just a poor MSc student I don't have any scientific publication to show you :'( <br>
 <small>If you want you can take a look at some of the [projects](/research/) I developed during my master</small></p>
 <!-- <p> Anyway I can proudly show you my <b>Bachelor's thesis</b>!<br>
 <small>If you want you can take a look at some of the [projects](/research/) I developed during my master</small></p> -->
