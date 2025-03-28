@@ -17,8 +17,11 @@ author_profile: true
 
 	<li><b>Implementation of</b> <a href="https://gitlab.com/i-miloncini/pod_compastro23"><tt>fireworks</tt></a> <b>Python module, Plummer sphere evolution, code optimization</b></li>
 	Goal of this project is the development of a N-body simulation Python module. Using <tt>fireworks</tt>, we studied the evolution of different realization of star clusters drawn from a Plummer sphere in virial equilibrium. The cluster
-was evolved in orbit in a point mass potential. We analyzed the leading and trailing tidal arms and the 'tidal radius criterion' effectiveness in selecting the stars belonging to the cluster. Alongside with the simulation, we
-explored ways to optimize the N-body simulation code using GPUs and multi-threading and multi-processing on CPUs.
+	was evolved in orbit in a point mass potential. We analyzed the leading and trailing tidal arms and the 'tidal radius criterion' effectiveness in selecting the stars belonging to the cluster. Alongside with the simulation, we
+	explored ways to optimize the N-body simulation code using GPUs and multi-threading and multi-processing on CPUs.
+<p></p>
+	<li><b>Parallel <a href="https://github.com/Berto70/nbody_cuda">N-body simulation</a> using <tt>CUDA</tt></b></li>
+	Goal of this project is the development of a parallel simulation of a 6-body gravitational problem in 3D space. The task involves computing the trajectories of six interacting particles under the influence of Newtonian gravity and visualizing their motion over time. The simulation is implemented using the <tt>CUDA</tt> framework. 
 <p></p>
 	<li><b><a href="https://github.com/Berto70/hm_bbh">Hierarchical Mergers</a> of Binary Black Holes</b></li>
 	Goal of this project is to understand the differences between hierarchical binary black hole mergers in NSCs, GCc and YSc, by looking at a set of simulated BBHs. Our analysis was carried out with classification ML algorithms,
